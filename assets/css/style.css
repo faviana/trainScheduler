@@ -1,0 +1,39 @@
+/* General */
+.header {
+    height: 30px;
+    background-color: rgb(51, 122, 183);
+}
+.title {
+    color: #fff;
+    padding: 5px 0px 0px 5px;
+}
+.panel-container {
+    border: 1.5px;
+    border-style: solid;
+    border-color: rgb(51, 122, 183);;
+    border-radius: 2px;
+    margin-top: 15px;
+}
+/* Table */
+#table {
+    margin-top: 15px;
+}
+/* Form */
+.input-group {
+   
+    width: 100%;
+    padding: 15px;  
+}
+#submit {
+    color: #fff;
+    background-color: rgb(51, 122, 183);
+    border: 0px;
+    border-radius: 2px;
+    padding: 5px;
+}
+.jumbotron{
+    background-color: black;
+}
+#jumboHeader{
+    color: white;
+}
